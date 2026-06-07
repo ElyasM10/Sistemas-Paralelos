@@ -3,3 +3,9 @@ venv/
 
 # Videos de prueba
 videos/
+
+resultados/
+
+__pycache__/
+*.pyc
+.vscode/
